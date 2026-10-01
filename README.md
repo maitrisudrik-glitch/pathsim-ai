@@ -56,7 +56,7 @@ Any change in marks, budget or stream re-runs the whole flow (Plan B Recalibrato
 
 ## Planned Tech Stack
 
-- **Frontend:** Next.js, React Flow, Recharts
+- **Frontend:** Next.js, React Flow, Recharts: ['pathsim_ai_decision_simulator.tsx'](./pathsim_ai_decision_simulator.tsx)
 - **Backend:** FastAPI, scikit-learn
 - **Data / search:** NetworkX, FAISS, SQLite
 - **LLM:** Gemini API
